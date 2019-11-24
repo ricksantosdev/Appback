@@ -1,0 +1,9 @@
+C:\Users\asts.rsjesus\Desktop\App\src\App.ApplicationCore\bin\Release\netcoreapp3.0\App.ApplicationCore.deps.json
+C:\Users\asts.rsjesus\Desktop\App\src\App.ApplicationCore\bin\Release\netcoreapp3.0\App.ApplicationCore.dll
+C:\Users\asts.rsjesus\Desktop\App\src\App.ApplicationCore\bin\Release\netcoreapp3.0\App.ApplicationCore.pdb
+C:\Users\asts.rsjesus\Desktop\App\src\App.ApplicationCore\obj\Release\netcoreapp3.0\App.ApplicationCore.csprojAssemblyReference.cache
+C:\Users\asts.rsjesus\Desktop\App\src\App.ApplicationCore\obj\Release\netcoreapp3.0\App.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\asts.rsjesus\Desktop\App\src\App.ApplicationCore\obj\Release\netcoreapp3.0\App.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\asts.rsjesus\Desktop\App\src\App.ApplicationCore\obj\Release\netcoreapp3.0\App.ApplicationCore.AssemblyInfo.cs
+C:\Users\asts.rsjesus\Desktop\App\src\App.ApplicationCore\obj\Release\netcoreapp3.0\App.ApplicationCore.dll
+C:\Users\asts.rsjesus\Desktop\App\src\App.ApplicationCore\obj\Release\netcoreapp3.0\App.ApplicationCore.pdb
